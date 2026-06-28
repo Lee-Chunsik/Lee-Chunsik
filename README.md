@@ -6,7 +6,8 @@
 
 # 🎓 Certs
 - OSCP
-- KVE (1)
+- KVE
+  - KVE-2025-0935
 
 ---
 
